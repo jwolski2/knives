@@ -1,4 +1,4 @@
-# empty
+# mainonly
 
 An analysis of the disassembly of a basic C program compiled with `gcc`.
 
